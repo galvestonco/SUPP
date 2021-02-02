@@ -54,7 +54,7 @@
       {
         "preScript": "",
         "metadata": {
-          "description": "",
+          "description": "schedules a pre-operational inspection upon completion of the Plan Review task",
           "operators": ""
         },
         "criteria": {
@@ -68,7 +68,12 @@
         "action": {
           "inspectionType": "Pre-Operational",
           "rangeType": "Days",
-          "range": "0"
+          "range": 14,
+		  "sameInspector": false,
+		  "inspectionCopyComment": false,
+		  "assignment" : "Record",
+		  "inspector" : "",
+		  "department" : ""
         },
         "postScript": ""
       }
