@@ -50,6 +50,29 @@
         "postScript": ""
       }
     ]
+    "WorkflowTaskUpdateAfter": [
+      {
+        "preScript": "",
+        "metadata": {
+          "description": "",
+          "operators": ""
+        },
+        "criteria": {
+          "taskName": [
+            "Plan Review"
+          ],
+          "taskStatus": [
+            "Ready for Inspection"
+          ]
+        },
+        "action": {
+          "inspectionType": "Pre-Operational",
+          "rangeType": "Days",
+          "range": "0",
+        },
+        "postScript": ""
+      }
+    ]
   },
   "EnvHealth/Food Retail/*/Permit": {
     "InspectionResultSubmitAfter": [
