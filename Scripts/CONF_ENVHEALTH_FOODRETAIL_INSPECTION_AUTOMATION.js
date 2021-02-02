@@ -49,7 +49,7 @@
         },
         "postScript": ""
       }
-    ]
+    ],
     "WorkflowTaskUpdateAfter": [
       {
         "preScript": "",
