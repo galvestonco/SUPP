@@ -68,7 +68,7 @@
         "action": {
           "inspectionType": "Pre-Operational",
           "rangeType": "Days",
-          "range": "0",
+          "range": "0"
         },
         "postScript": ""
       }
