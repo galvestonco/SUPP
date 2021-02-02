@@ -1,5 +1,5 @@
 {
-  "--EnvHealth/Food Retail/*/Application": {
+  "EnvHealth/Food Retail/*/Application": {
     "InspectionResultSubmitAfter": [
       {
         "preScript": "",
