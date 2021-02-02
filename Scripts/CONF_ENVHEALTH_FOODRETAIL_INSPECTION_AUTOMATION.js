@@ -73,7 +73,7 @@
         "postScript": ""
       }
     ]
-  }
+  },
   "EnvHealth/Food Retail/*/Permit": {
     "InspectionResultSubmitAfter": [
       {
