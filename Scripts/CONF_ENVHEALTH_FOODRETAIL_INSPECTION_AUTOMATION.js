@@ -54,7 +54,7 @@
       {
         "preScript": "",
         "metadata": {
-          "description": "schedules a pre-operational inspection upon completion of the Plan Review task",
+          "description": "schedules a pre-operational inspection upon completion of the Plan Review task - adding text for EMSE tool test",
           "operators": ""
         },
         "criteria": {
